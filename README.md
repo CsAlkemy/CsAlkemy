@@ -11,6 +11,7 @@ This year I am focused on learning D3, GraphQL along with my day to day job. Als
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=csalkemy" alt="https://github.com/ileriayo" />
+    <img src="https://wakatime.com/badge/user/a52a40f3-c9ac-4b14-9a72-af739d037f6f.svg" alt="https://wakatime.com/@a52a40f3-c9ac-4b14-9a72-af739d037f6f"/>
 </p>
 
 <hr>
